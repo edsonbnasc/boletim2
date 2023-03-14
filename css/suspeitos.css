@@ -1,0 +1,27 @@
+.suspeitos{
+    margin-top: 2px;
+    width: 600px;
+    height: 80px;
+    background-color: blue;
+    border-radius: 0 20px 50px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /*font-family: "Climate Crisis"; /*font da letra retirada do google fonts*/
+
+}
+.suspeitos__titulo{
+    margin-left: 8px;
+}
+.suspeitos__numero{     /*criar borda circular no numero*/
+    font-size: 20px;
+    width: 70px;
+    height: 70px;
+    background-color:white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+
+}

@@ -1,0 +1,24 @@
+img{
+    width: 200px;
+    height: 100px;
+}
+.dadosGerais__info{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.dadosGerais__boletim{ /*cria um degrade no texto apos ter uma classe*/
+    background-image: linear-gradient(to bottom, rebeccapurple, steelblue, turquoise);
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+}
+.dadosGerais__texto{
+    width: 400px;
+    
+  
+}

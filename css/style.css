@@ -1,0 +1,11 @@
+@import "confirmados.css";
+@import "suspeitos.css";
+@import "dadosGerais.css";
+main{
+    display: flex;
+}
+body{
+    background: rgb(36, 32, 129);
+    background: linear-gradient(90deg, rgb(120, 118, 160) 10%, rgb(117, 117, 151) 41%, rgba(0,212,255,1) 73%);
+    
+}
